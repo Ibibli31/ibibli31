@@ -1,5 +1,6 @@
 # 💫 About Me:
-Heya! I'm Bliss! I'm a Dev Degree Intern at Shopify and a Computer Science student at Carleton University! Always looking for something to work on so feel free to reach out :]
+Hey, I'm Bliss! I'm a Dev Degree Intern at Shopify and a Computer Science student at Carleton University! 
+- Always looking for something to work on so feel free to reach out :]
 
 
 ## 🌐 Socials:
